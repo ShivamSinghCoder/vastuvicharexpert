@@ -1214,9 +1214,10 @@ footer .wave#wave4
     {
         flex-direction: column;
     }
-   .contact-container .contactInfo .contact-box .text 
+   
+    .contact-container .contactInfo .contact-box .text
     {
-        font-size: 0px;
+        font-size: 10px;
     }
  
 
