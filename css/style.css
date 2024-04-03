@@ -53,7 +53,7 @@ header
 {
     z-index:999;
     position:fixed;
-    width: 100vw;
+    width: 100%;
     height: calc(5rem + 1 rem);
     top: 0;
     left: 0;
@@ -76,7 +76,7 @@ header.sticky
 header .nav-bar
 {
     position: relative;
-    width:100vw;
+    width:100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1217,7 +1217,7 @@ footer .wave#wave4
    
     .contact-container .contactInfo .contact-box .text
     {
-        font-size: 10px;
+        font-size:10px;
     }
  
 
