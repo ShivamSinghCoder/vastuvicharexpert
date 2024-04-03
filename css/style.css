@@ -53,7 +53,7 @@ header
 {
     z-index:999;
     position:fixed;
-    width: 100%;
+    width: 100vw;
     height: calc(5rem + 1 rem);
     top: 0;
     left: 0;
@@ -76,7 +76,7 @@ header.sticky
 header .nav-bar
 {
     position: relative;
-    width:100%;
+    width:100vw;
     display: flex;
     align-items: center;
     justify-content: space-between;
