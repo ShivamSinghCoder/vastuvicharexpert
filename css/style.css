@@ -686,7 +686,7 @@ transform: scale(1.05);
 }
 .contact .content
 {
-    min-width: 800px;
+    min-width: 100%;
     text-align: center;
 
 }
