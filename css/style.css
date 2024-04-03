@@ -1057,9 +1057,8 @@ footer .wave#wave4
     {
         font-size: 0.9em;
     }
-    .about-section
-{
-    background-color:blue;
+.about-content-section .content p{
+    color: gray;
 }
     .about-container
     {
